@@ -31,8 +31,6 @@
 ![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge&logo=Clickhouse)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-FFF?style=for-the-badge&logo=MySQL)
-![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-FFF?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=black)
-![SQLite](https://img.shields.io/badge/-SQLite-A9A9A9?style=for-the-badge&logo=SQLite)
 ![Redash](https://img.shields.io/badge/-Redash-FFF?style=for-the-badge&logo=Redash)
 ![Tabix](https://img.shields.io/badge/-Tabix-FFF?style=for-the-badge&logo=Tabix)
 
@@ -40,7 +38,5 @@
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-FFF?style=for-the-badge&logo=Tableau)
-![Qlik](https://img.shields.io/badge/-Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)
-![Fine BI](https://img.shields.io/badge/-FINE_BI-009AFF?style=for-the-badge&logo=FINE_BI)
  
   
