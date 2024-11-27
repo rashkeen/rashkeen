@@ -6,17 +6,6 @@
 + обожаю работать с большими таблицами и анализировать их ✍🏻
 + имею за плечами высшее образование и несколько дополнительных курсов 🎓
 
-## Мой стэк:
-- Продвинутое владение **Python** для аналитики:
-    - сбор, обработка и анализ данных (pandas и numpy)
-    - навыки визуализации данных (matplotlib, seaborn и plotly)
-- Базовое владение **SQL**:
-    - агрегирующие функции
-    - оконные функции, ранжирование
-    - джойны, CTE
-- Базовое владение **Tableau**
-- Знание основ статистических тестов, А/Б тестирования
-
 ## <p align='center'>Проекты:</p>
 <div align='center'>
 
@@ -27,5 +16,31 @@
 |Исследование гипотез и анализ результатов A/B теста для приложения доставки (__[ссылка](https://github.com/rashkeen/analysis_AB-test_results_for_delivery_application)__)|Предобработка данных, анализ аномалий в данных, выбор метрик, отражающих качество сервиса, и статистическое сравнение этих метрик между двумя группами.|Python, Pandas, Matplotlib, NumPy, SciPy|
 |Анализ продуктовых метрик мобильного приложения (__[ссылка](https://github.com/rashkeen/Analysis_of_mobile_application-)__)|Написана функция для подсчета показателя retention. Исследование результатов A/B тестирования акционных предложений для определения лучшего набора. Определены метрики для оценки результатов последнего тематического события в игре.|Python, Pandas, Matplotlib, NumPy, SciPy, datetime|
 </div>
+
+## <p align="center">Мой стэк:</p>
+<div align='center'> 
+  
+![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
+![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge&logo=Clickhouse)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-FFF?style=for-the-badge&logo=MySQL)
+![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-FFF?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-A9A9A9?style=for-the-badge&logo=SQLite)
+![Redash](https://img.shields.io/badge/-Redash-FFF?style=for-the-badge&logo=Redash)
+![Tabix](https://img.shields.io/badge/-Tabix-FFF?style=for-the-badge&logo=Tabix)
+
+![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL)
+![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-FFF?style=for-the-badge&logo=Tableau)
+![Qlik](https://img.shields.io/badge/-Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)
+![Fine BI](https://img.shields.io/badge/-FINE_BI-009AFF?style=for-the-badge&logo=FINE_BI)
  
   
