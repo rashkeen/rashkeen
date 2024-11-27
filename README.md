@@ -28,7 +28,7 @@
 |[Анализ продуктовых метрик мобильного приложения](https://github.com/rashkeen/Analysis_of_mobile_application-)|Разработана функция для подсчета показателя retention. Проведено исследование результатов A/B тестирования акционных предложений для определения наиболее эффективного набора. Определены метрики для оценки результатов последнего тематического события в игре, что способствовало улучшению пользовательского опыта.|Python, Pandas, Matplotlib, NumPy, SciPy|
 </div>
 
-## <p align="center">Мой стэк:</p>
+### :hammer_and_wrench: Мой стэк:
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
