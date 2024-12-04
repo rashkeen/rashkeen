@@ -35,7 +35,6 @@
 |Симулятор SQL (__[сертификат](https://lab.karpov.courses/certificate/531808d6-baca-45d1-af31-6cbeeced6394/)__)|[Karpov.Courses](https://karpov.courses/simulator-sql)|2024|
 </div>
 
-
 ### :book: Мои проекты:
 
 <div align='center'>
