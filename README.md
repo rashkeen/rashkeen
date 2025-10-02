@@ -35,8 +35,8 @@
 
 |**Специальность**|**Образование/курсы**|**Год окончания**|
 |--------|-----------|-----------|
-|Аналитик данных (__[сертификат](https://lab.karpov.courses/certificate/7c0b3ecc-06bb-440e-9b11-3d19057aa08d/)__)|[Karpov.Courses](https://karpov.courses/analytics)|2024|
-|Симулятор SQL (__[сертификат](https://lab.karpov.courses/certificate/531808d6-baca-45d1-af31-6cbeeced6394/)__)|[Karpov.Courses](https://karpov.courses/simulator-sql)|2024|
+|Аналитик данных (__[сертификат](https://lab.karpov.courses/certificate/7c0b3ecc-06bb-440e-9b11-3d19057aa08d/)__)|[Karpov.Courses](https://karpov.courses/analytics)|2025|
+|Симулятор SQL (__[сертификат](https://lab.karpov.courses/certificate/531808d6-baca-45d1-af31-6cbeeced6394/)__)|[Karpov.Courses](https://karpov.courses/simulator-sql)|2025|
 </div>
 
 ### :book: Мои проекты:
