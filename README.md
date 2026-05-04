@@ -36,7 +36,7 @@
 |--------|-----------|-----------|
 |Аналитик данных (__[сертификат](https://lab.karpov.courses/certificate/7c0b3ecc-06bb-440e-9b11-3d19057aa08d/)__)|[Karpov.Courses](https://karpov.courses/analytics)|2026|
 |Симулятор SQL (__[сертификат](https://lab.karpov.courses/certificate/531808d6-baca-45d1-af31-6cbeeced6394/)__)|[Karpov.Courses](https://karpov.courses/simulator-sql)|2026|
-|Интерактивный тренажер по SQL (__[сертификат](https://stepik.org/certificate/4f470ac9f5aebc66423053734e465df13eca9091.pdf)__)|[stepik.org](https://stepik.org/course/63054/promo))|2025|
+|Интерактивный тренажер по SQL (__[сертификат](https://stepik.org/certificate/4f470ac9f5aebc66423053734e465df13eca9091.pdf)__)|[stepik.org](https://stepik.org/course/63054/promo)|2025|
 </div>
 
 ### :book: Мои проекты:
